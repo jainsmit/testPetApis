@@ -10,4 +10,4 @@ Tests to validate Pet APIs
 * pip install pytest
 
 # To Run Test
-* pytest -q tests/test_api_functionality.py
+* pytest -q tests/
