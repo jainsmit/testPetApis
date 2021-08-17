@@ -1,9 +1,13 @@
 # testPetApis
 Tests to validate Pet APIs
+* findPetById
+* findPets
+* addPet
+* DeletePet
 
 # Pre-requisite
-pip install requests
-pip install pytest
+* pip install requests
+* pip install pytest
 
 # To Run Test
-pytest -q tests/test_api_functionality.py
+* pytest -q tests/test_api_functionality.py
