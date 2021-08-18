@@ -11,4 +11,5 @@ Tests to validate Pet APIs
 * python3 -m venv pytest-env
 
 # To Run Test
+* export PYTHONPATH=`pwd`
 * pytest -q tests/
